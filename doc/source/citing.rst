@@ -18,20 +18,20 @@ Reference Key for Methods/Applications
 
 Key definitions are given :ref:`below <sec-defs>`.
 
-=============================  =================
-Method                         Reference Key
-=============================  =================
-2+3-body ChIMES                #. Carbon-1
-ChIMES+DFTB                    #. PuH-DFTB
-                               #. DNTF-DFTB
-                               #. TiH-DFTB
-Iterative Refinement           #. CO-1
-Carbon Condensation            #. CO-1
-2+3+4-body ChIMES              #. CO-2
-Distributed LASSO              #. CO-2
-Active Learning                #. CO-2                 
-ChIMES+MSST                    #. HN-1
-                               #. DNTF-DFTB
+=============================    =================
+Method                           Reference Key
+=============================    =================
+2+3-body ChIMES                  #. Carbon-1
+ChIMES+DFTB                      #. PuH-DFTB
+                                 #. DNTF-DFTB
+                                 #. TiH-DFTB
+Iterative Refinement             #. CO-1
+Carbon Condensation              #. CO-1
+2+3+4-body ChIMES                #. CO-2
+Distributed LASSO                #. CO-2
+Active Learning                  #. CO-2
+ChIMES+MSST                      #. HN-1
+                                 #. DNTF-DFTB
 =============================  =================
 
 ----------------
@@ -46,8 +46,7 @@ Parameter set and key name are interchangeable. Key definitions are given :ref:`
 
 =============  ====================================  ==========   ============================================   =========
 KEY            Material                              Bodiedness   `T` (K)/ :math:`\rho` (gcc) Range              Comments
-=============  ====================================  ==========   ============================================   =========
-Carbon-1       Molten Carbon                         2            5000/2.43                                      N/A      
+=============  ====================================  ==========   ============================================   =========    
 Carbon-1       Molten Carbon                         2            5000/2.43                                      N/A      
 Carbon-1       Molten Carbon                         2+3          5000/2.43                                      N/A      
 Carbon-1       Molten Carbon                         2+3          6000/2.25-3.00                                 N/A      
@@ -81,7 +80,7 @@ CO-1             (`link <https://doi.org/10.1063/5.0012840>`_)                R.
 CO-2             (`link <https://doi.org/10.1063/5.0021965>`_)                R.K. Lindsey*, L.E. Fried, N. Goldman, S. Bastea, `J. Chem. Phys.` **153** 134117 (2020).
 COND-1           (`link <https://doi.org/10.1038/s41467-019-14034-z>`_)       M.R. Armstrong*, R.K. Lindsey*, N. Goldman, M.H. Nielsen, E. Stavrou, L.E. Fried, J.M. Zaug, S. Bastea*, `Nat, Commun.` **11** 353 (2020).
 HN-1             (`link <https://doi.org/10.1063/5.0029011>`_)                H. Pham*, R.K. Lindsey, L.E. Fried, N. Goldman, `J. Chem. Phys.` **153** 224102 (2020).
-DNTF-DFTB        (`link <https://doi.org/?????????????????>`_)                R.K. Lindsey*, S. Bastea*, N. Goldman, L. Fried, In Prep.
-TiH-DFTB         (`link <https://doi.org/?????????????????>`_)                N. Goldman*, K. Kweon, R. K. Lindsey, L. E. Fried, T. W. Heo, B, Sadigh, P. Soderlind, A. Landa, A. Perron, J. Jeffries, In Prep.
+DNTF-DFTB        (`link <https://doi.org/10.26434/chemrxiv.14043839.v1>`_)    R.K. Lindsey*, S. Bastea*, N. Goldman, L. Fried, In Prep.
+TiH-DFTB         (`link <https://doi.org/10.1021/acs.jctc.1c00172>`_)         N. Goldman*, K. Kweon, R. K. Lindsey, L. E. Fried, T. W. Heo, B, Sadigh, P. Soderlind, A. Landa, A. Perron, J. Jeffries, In Prep.
 ==============   ==========================================================   ==============
 

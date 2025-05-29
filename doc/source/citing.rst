@@ -30,7 +30,7 @@ Carbon Condensation            #. CO-1
 2+3+4-body ChIMES              #. CO-2
 Distributed LASSO              #. CO-2
 Active Learning                #. CO-2
-Hierarchical transfer learning  #.  CN-1
+Hierarchical transfer learning
 ChIMES+MSST                    #. HN-1
                                #. DNTF-DFTB
 =============================  =================

@@ -75,6 +75,26 @@ Reference Key Definitions
 Corresponding authors are indicated with an asterisk (*).
 
 ==============   ==========================================================   ==============
+Key              Link                                                         Definition
+==============   ==========================================================   ==============
+Carbon-1         (`link <https://doi.org/10.1021/acs.jctc.7b00867>`_)         R.K. Lindsey*, L.E. Fried, N. Goldman, `J. Chem. Theory Comput.`, **13**  6222   (2017).
+PuH-DFTB         (`link <https://doi.org/10.1021/acs.jctc.8b00165>`_)         N. Goldman*, B. Aradi, R.K. Lindsey, L.E. Fried, `J. Chem. Theory Comput.` **14** 2652 (2018).
+Water-1          (`link <https://doi.org/10.1021/acs.jctc.8b00831>`_)         R.K. Lindsey*, L.E. Fried, N. Goldman, `J. Chem. Theory Comput.`  **15**  436    (2019).
+CO-1             (`link <https://doi.org/10.1063/5.0012840>`_)                R.K. Lindsey*, N. Goldman, L.E. Fried, S. Bastea, `J. Chem. Phys.` **153** 054103 (2020).
+CO-2             (`link <https://doi.org/10.1063/5.0021965>`_)                R.K. Lindsey*, L.E. Fried, N. Goldman, S. Bastea, `J. Chem. Phys.` **153** 134117 (2020).
+COND-1           (`link <https://doi.org/10.1038/s41467-019-14034-z>`_)       M.R. Armstrong*, R.K. Lindsey*, N. Goldman, M.H. Nielsen, E. Stavrou, L.E. Fried, J.M. Zaug, S. Bastea*, `Nat, Commun.` **11** 353 (2020).
+HN-1             (`link <https://doi.org/10.1063/5.0029011>`_)                H. Pham*, R.K. Lindsey, L.E. Fried, N. Goldman, `J. Chem. Phys.` **153** 224102 (2020).
+DNTF-DFTB        (`link <https://doi.org/10.26434/chemrxiv.14043839.v1>`_)    R.K. Lindsey*, S. Bastea*, N. Goldman, L. Fried, In Prep.
+TiH-DFTB         (`link <https://doi.org/10.1021/acs.jctc.1c00172>`_)         N. Goldman*, K. Kweon, R. K. Lindsey, L. E. Fried, T. W. Heo, B, Sadigh, P. Soderlind, A. Landa, A. Perron, J. Jeffries, In Prep.
+==============   ==========================================================   ==============
+
+
+
+
+
+
+
+==============   ==========================================================   ==============
 Key                  Link                                                         Definition
 ==============   ==========================================================   ==============
 Carbon-1             (`link <https://doi.org/10.1021/acs.jctc.7b00867>`_)         R.K. Lindsey*, L.E. Fried, N. Goldman, `J. Chem. Theory Comput.`, **13**  6222   (2017).

@@ -37,7 +37,7 @@ Active Learning                    #. CO-2
 Hierarchical Transfer Learning     #. CN-1
 ChIMES+MSST                        #. HN-1
                                    #. DNTF-DFTB
-Fingerprinting                     #. Carbon-3 
+Cluster-Graph Fingerprinting       #. Carbon-3 
 =================================  =================
 
 ----------------

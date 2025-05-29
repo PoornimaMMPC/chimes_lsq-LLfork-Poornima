@@ -18,9 +18,9 @@ Reference Key for Methods/Applications
 
 Key definitions are given :ref:`below <sec-defs>`.
 
-=============================      =================
+=============================  =================
 Method                             Reference Key
-=============================      =================
+=============================  =================
 2+3-body ChIMES                    #. Carbon-1
 ChIMES+DFTB                        #. PuH-DFTB
                                    #. DNTF-DFTB
@@ -33,8 +33,7 @@ Active Learning                    #. CO-2
 Hierarchical Transfer Learning     #. CN-1
 ChIMES+MSST                        #. HN-1
                                    #. DNTF-DFTB
-=============================      =================
-
+=============================  =================
 ----------------
 
 .. _sec-params:
@@ -73,9 +72,9 @@ Reference Key Definitions
 
 Corresponding authors are indicated with an asterisk (*).
 
-==============       ==========================================================   ==============
+==============   ==========================================================   ==============
 Key                  Link                                                         Definition
-==============       ==========================================================   ==============
+==============   ==========================================================   ==============
 Carbon-1             (`link <https://doi.org/10.1021/acs.jctc.7b00867>`_)         R.K. Lindsey*, L.E. Fried, N. Goldman, `J. Chem. Theory Comput.`, **13**  6222   (2017).
 Carbon-2             (`link <https://doi.org/10.26434/chemrxiv-2024-s1fs5-v3>`_)  R.K. Lindsey*, S. Bastea, S. Hamel, Y. Lyu, N. Goldman, Lordi . Lordi, Under review 
 PuH-DFTB             (`link <https://doi.org/10.1021/acs.jctc.8b00165>`_)         N. Goldman*, B. Aradi, R.K. Lindsey, L.E. Fried, `J. Chem. Theory Comput.` **14** 2652 (2018).
@@ -89,5 +88,5 @@ TiH-DFTB             (`link <https://doi.org/10.1021/acs.jctc.1c00172>`_)       
 N                    (`link <https://doi.org/10.1063/5.0157238>`_)                R.K. Lindsey*, S. Bastea, Y. Lyu,  S. Hamel, N. Goldman, L.E. Fried
 Training set refinement
 CN-1                 (`link <https://doi.org/10.26434/chemrxiv-2024-523v8-v2>`_)  R.K. Lindsey*, A. Oladipupo, S. Bastea, B. Steele , I.F.W. Kuo, N. Goldman, Under review
-==============       ==========================================================   ==============
+==============   ==========================================================   ==============
 

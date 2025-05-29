@@ -18,22 +18,22 @@ Reference Key for Methods/Applications
 
 Key definitions are given :ref:`below <sec-defs>`.
 
-=============================  =================
-Method                         Reference Key
-=============================  =================
-2+3-body ChIMES                #. Carbon-1
-ChIMES+DFTB                    #. PuH-DFTB
-                               #. DNTF-DFTB
-                               #. TiH-DFTB
-Iterative Refinement           #. CO-1
-Carbon Condensation            #. CO-1
-2+3+4-body ChIMES              #. CO-2
-Distributed LASSO              #. CO-2
-Active Learning                #. CO-2                 
-Hierarchical Learning          #. CN-1
-ChIMES+MSST                    #. HN-1
-                               #. DNTF-DFTB
-=============================  =================
+=================================  =================
+Method                             Reference Key
+=================================  =================
+2+3-body ChIMES                    #. Carbon-1
+ChIMES+DFTB                        #. PuH-DFTB
+                                   #. DNTF-DFTB
+                                   #. TiH-DFTB
+Iterative Refinement               #. CO-1
+Carbon Condensation                #. CO-1
+2+3+4-body ChIMES                  #. CO-2
+Distributed LASSO                  #. CO-2
+Active Learning                    #. CO-2                 
+Hierarchical Transfer Learning     #. CN-1
+ChIMES+MSST                        #. HN-1
+                                   #. DNTF-DFTB
+=================================  =================
 
 ----------------
 

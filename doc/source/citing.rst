@@ -97,7 +97,7 @@ N                     (`link <https://doi.org/10.1063/5.0157238>`_)             
 DNTF-DFTB             (`link <https://doi.org/10.26434/chemrxiv.14043839.v1>`_)      R.K. Lindsey*, S. Bastea*, N. Goldman, L. Fried, `ChemRxiv.` (2021)
 TiH-DFTB              (`link <https://doi.org/10.1021/acs.jctc.1c00172>`_)           N.Goldman*, K. Kweon, R. K. Lindsey, L. E. Fried, T. W. Heo, B, Sadigh, P. Soderlind, A. Landa, A. Perron, J. Jeffries, `Chem. Theory Comput.` 17, 4435–4448 (2021)
 CHON-DFTB             (`link <https://doi.org/10.1021/acs.jpclett.2c00453>`_)        H.Pham* , R.K. Lindsey, L.E. Fried, N. Goldman, `Phys. Chem. Lett.` 13, 2934–2942 (2022) 
-Carbon-3              (`link <https://doi.org/10.26434/chemrxiv-2025-vr0cs>`_)       B.R. Laubach, R.K. Lindsey, `ChemRxiv` (2025), Working Paper
+Carbon-3              (`link <https://doi.org/10.26434/chemrxiv-2025-vr0cs>`_)       B.R. Laubach*, R.K. Lindsey, `ChemRxiv` (2025), Working Paper
 ===================   ============================================================   ==============
 
 

@@ -89,6 +89,5 @@ TiH-DFTB             (`link <https://doi.org/10.1021/acs.jctc.1c00172>`_)       
 N                    (`link <https://doi.org/10.1063/5.0157238>`_)                R.K. Lindsey*, S. Bastea, Y. Lyu,  S. Hamel, N. Goldman, L.E. Fried
 Training set refinement
 CN-1                 (`link <https://doi.org/10.26434/chemrxiv-2024-523v8-v2>`_)  R.K. Lindsey*, A. Oladipupo, S. Bastea, B. Steele , I.F.W. Kuo, N. Goldman, Under review
-
 ==============       ==========================================================   ==============
 

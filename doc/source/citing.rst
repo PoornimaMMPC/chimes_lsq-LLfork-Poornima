@@ -51,27 +51,26 @@ Reference Key for Parameter Sets
 
 Parameter set and key name are interchangeable. Key definitions are given :ref:`below <sec-defs>`.
 
-==================  ====================================  ==========   ============   =========   =================   =========
-KEY                 Material                              Bodiedness   `T` (K)        `P` (GPa)   math:`\rho` (gcc)   Comments
-==================  ====================================  ==========   ============   =========   =================   =========   
-Carbon-1            Molten Carbon                         2            5000           N/A         2.43                N/A      
-Carbon-1            Molten Carbon                         2+3          5000           N/A         2.43                N/A      
-Carbon-1            Molten Carbon                         2+3          6000           N/A         2.25-3.00           N/A
-Carbon-2            Carbon                                2+3          300-10000      0-100       N/A                 N/A
-Water-1             Water                                 2+3          298            0           1.00                N/A 
-CO-1                Carbon Monoxide (1:1)                 2+3          6500-9350      N/A         2.5                 N/A
-CO-2                Carbon Monoxide (1:1)                 2+3+4        2400           N/A         1.79                N/A
-HN-1                Hydrazoic Acid H/N                    2+3+4        300-4500       N/A         1-2                 N/A
-CN-1                C/N                                   2+3          300-9000       0-200       1-4                 N/A
-N                   N                                     2+3+4        300-8000       0-100       1-4.5               N/A
-UH                  U/H                                   2+3          400-1000       N/A         N/A                 N/A
-COND-1              Carbon Monoxide (1:1)               
-COND-2
-DNTF-DFTB           3,4-bis(4-nitrofurazan-3-yl)furoxan   2+3          300-9000       -           1.86-3.4            DFTB :math:`E_{\mathrm{rep}}`, Not applicable to other atom type ratios
-TiH-DFTB            Ti/H                                  2+3          N/A            -           5.5                 DFTB :math:`E_{\mathrm{rep}}`
-CHON-DFTB           C/H/O/N                               2+3          N/A            N/A         N/A                 N/A
-PuH-DFTB            Pu/H                                  2+3          0-300          -           N/A                 DFTB :math:`E_{\mathrm{rep}}`
-==================  ====================================  ==========   ============   =========   =================   =========
+==================  ====================================  ==========   ========================   ==========   ====================   =========
+KEY                 Material                              Bodiedness   `T`  (K)                   `P` (GPa)    :math:`\rho` (gcc)     Comments
+
+==================  ====================================  ==========   ========================   ==========   ====================   =========   
+Carbon-1            Molten Carbon                         2            5000                       `-`          2.43                   N/A      
+Carbon-1            Molten Carbon                         2+3          5000                       `-`          2.43                   N/A      
+Carbon-1            Molten Carbon                         2+3          6000                       `-`          2.25-3.00              N/A
+Carbon-2            Carbon                                2+3          300-10000                  0-100        `-`                    N/A
+Water-1             Water                                 2+3          298                        0            1.00                   N/A 
+CO-1                Carbon Monoxide (1:1)                 2+3          6500-9350                  `-`          2.5                    N/A
+CO-2                Carbon Monoxide (1:1)                 2+3+4        2400                       `-`          1.79                   N/A
+HN-1                Hydrazoic Acid H/N                    2+3+4        300-4500                   `-`          1-2                    N/A
+CN-1                C/N                                   2+3          300-9000                   0-200        1-4                    N/A
+N                   N                                     2+3+4        300-8000                   0-100        1-4.5                  N/A
+UH                  U/H                                   2+3          400-1000                   `-`          `-`                    N/A
+DNTF-DFTB           3,4-bis(4-nitrofurazan-3-yl)furoxan   2+3          300-9000                   `-`          1.86-3.4               DFTB :math:`E_{\mathrm{rep}}`, Not applicable to other atom type ratios
+TiH-DFTB            Ti/H                                  2+3          `-`                        `-`          5.5                    DFTB :math:`E_{\mathrm{rep}}`
+CHON-DFTB           C/H/O/N                               2+3          `-`                        `-`          `-`                    N/A
+PuH-DFTB            Pu/H                                  2+3          0-300                      `-`          `-`                    DFTB :math:`E_{\mathrm{rep}}`
+==================  ====================================  ==========   ========================   ==========   ====================   =========
 
 
 ---------

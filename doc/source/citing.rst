@@ -67,7 +67,7 @@ CN-1                C/N                                   2+3          300-9000 
 N                   N                                     2+3+4        300-8000                   0-100        1-4.5                  N/A
 UH                  U/H                                   2+3          400-1000                   `-`          `-`                    N/A
 DNTF-DFTB           3,4-bis(4-nitrofurazan-3-yl)furoxan   2+3          300-9000                   `-`          1.86-3.4               DFTB :math:`E_{\mathrm{rep}}`, Not applicable to other atom type ratios
-TiH-DFTB            Titanium hydride Ti/H                 2+3          `-`                        `-`          5.5                    DFTB :math:`E_{\mathrm{rep}}`
+TiH-DFTB            Titanium Hydride Ti/H                 2+3          `-`                        `-`          5.5                    DFTB :math:`E_{\mathrm{rep}}`
 CHON-DFTB           C/H/O/N                               2+3          `-`                        `-`          `-`                    N/A
 PuH-DFTB            Pu/H                                  2+3          0-300                      `-`          `-`                    DFTB :math:`E_{\mathrm{rep}}`
 ==================  ====================================  ==========   ========================   ==========   ====================   =========
